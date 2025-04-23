@@ -11,8 +11,11 @@ public class Leitura {
         System.out.println("Diga sua nota para o filme: ");
         double avaliacao = leitura.nextDouble();
 
-        System.out.println(filme);
-        System.out.println(anoDeLancamento);
-        System.out.println(avaliacao);
+//        System.out.println(filme);
+//        System.out.println(anoDeLancamento);
+//        System.out.println(avaliacao);
+
+        System.out.println("O filme " + filme + " foi lançado em: " + anoDeLancamento + " e você deu nota: " + avaliacao + " para ele.");
+
     }
 }
