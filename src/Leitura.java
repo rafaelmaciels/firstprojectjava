@@ -18,4 +18,6 @@ public class Leitura {
         System.out.println("O filme " + filme + " foi lançado em: " + anoDeLancamento + " e você deu nota: " + avaliacao + " para ele.");
 
     }
+
 }
+
